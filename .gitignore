@@ -1,0 +1,10 @@
+*.map
+*.cgi
+*.css
+.sass-cache/
+web/.sass-cache/
+misc/*xml
+
+# Javan's shit
+.idea/
+css.sh
